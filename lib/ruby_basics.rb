@@ -20,7 +20,7 @@ def return_a_value(phrase = "Nice")
 end
 
 def last_evaluated_value 
-  puts "expert"
+  "newbiee"
   "expert"
 end
 
