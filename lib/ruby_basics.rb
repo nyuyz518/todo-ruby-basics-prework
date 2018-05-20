@@ -10,7 +10,8 @@ def argue (phrase = "I'm right and you are wrong!")
    phrase
 end
 
-def greeting (arg1,arg2)
+def greeting (greeting, name)
+  puts "#{greeting},#{name}"
   
 end
 
